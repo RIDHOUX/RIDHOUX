@@ -66,6 +66,6 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=r
   <img src="https://raw.githubusercontent.com/RIDHOUX/RIDHOUX/output/snake.svg"/>
 </p>
 
-<h3 align="center"> "Code. Create. Innovate. Repeat." </h3>
+<h3 align="center"> "Network. Secure. Innovate. Repeat." </h3>
 
 <p align="center"> ⭐ Thanks for visiting my profile ⭐ </p>
