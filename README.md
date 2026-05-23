@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">⚡ RIDHOUX ⚡</h1>
 
-<!--
-**RIDHOUX/RIDHOUX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🚀 Full Stack Developer | UI/UX Designer | Tech Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+To+My+GitHub+Profile;Modern+Developer+Dashboard;Always+Learning+New+Technology;Code+Create+Innovate!" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🌌 About Me
+
+```yaml
+Name: RIDHOUX
+Location: Indonesia
+Focus: Web Development & Programming
+Learning: AI, Backend, Cloud Computing
+Hobbies: Coding, Gaming, Designing
