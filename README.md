@@ -18,3 +18,5 @@ Location: Indonesia
 Focus: Web Development & Programming
 Learning: AI, Backend, Cloud Computing
 Hobbies: Coding, Gaming, Designing
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,cpp,mysql,nodejs,react,bootstrap,tailwind,git,github,vscode,figma&perline=8" /> </p>
